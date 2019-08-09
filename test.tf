@@ -1,1 +1,1 @@
-derp
+resource "random_uuid" "test" {}
